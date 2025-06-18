@@ -1,8 +1,9 @@
-## Bom dia, boa tarde, boa noite! Meu nome é Lucas Oliveira 👋👋
+## Olá, meu nome é Lucas Oliveira 👋
 
-- 🌱 Estudando desenvolvimento web, principalmente com React e Node
-- 🧑🏽‍🍳🍳 Ex-chef de cozinha em transição de carreira
-- 🎮📚 Maluco por vídeo-game nas horas vagas, e fã de Senhor dos Anéis
+- Desenvolvedor Full Stack, com foco em NodeJS, React e Java;
+- Trabalhando como analista de redes no momento e freelances de desenvolvimento web;
+- Enquanto analista de redes, estou trabalhando com Python e com a biblioteca Netmiko para desenvolver automações de configurações de equipamentos de rede, e criando interfaces para visibilidade do status da rede e de seus equipamentos
+- Vamos conversar? Me chame no LinkedIn ou me mande um email!
 
 <div align="center">
   <a href="https://github.com/lucasoliveira722">
@@ -11,15 +12,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Icon-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Icon-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Icon-NextJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Icon-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Icon-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Icon-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Icon-Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Icon-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Icon-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
