@@ -10,7 +10,7 @@
 
 ## Português
 
-Olá! Sou Lucas Oliveira, desenvolvedor Full Stack com sólida experiência em Node.js, React e Java. Atualmente, atuo como Analista de Redes, onde utilizo Python e a biblioteca Netmiko para desenvolver automações de configuração de equipamentos de rede e criar interfaces para monitoramento e visibilidade do status da infraestrutura.
+Olá! Meu nome é Lucas Oliveira, desenvolvedor Full Stack com sólida experiência em Node.js, React e Java. Atualmente, atuo como Analista de Redes, onde utilizo Python e a biblioteca Netmiko para desenvolver automações de configuração de equipamentos de rede e criar interfaces para monitoramento e visibilidade do status da infraestrutura.
 
 Paralelamente, trabalho como freelancer em projetos de desenvolvimento web, combinando minha expertise técnica para entregar soluções eficientes e escaláveis.
 
@@ -33,7 +33,6 @@ Paralelamente, trabalho como freelancer em projetos de desenvolvimento web, comb
 
 <div align="center">
   <a href="https://github.com/lucasoliveira722">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasoliveira722&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira722&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
