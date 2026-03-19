@@ -10,7 +10,7 @@
 
 ## Português
 
-Olá! Meu nome é Lucas Oliveira, desenvolvedor Full Stack com sólida experiência em Node.js, React e Java. Atualmente, atuo como Analista de Redes, onde utilizo Python e a biblioteca Netmiko para desenvolver automações de configuração de equipamentos de rede e criar interfaces para monitoramento e visibilidade do status da infraestrutura.
+Olá! Meu nome é Lucas Oliveira, desenvolvedor Full Stack com sólida experiência em Node.js, React e Java. Atualmente, atuo como analista de integração de API na Keeta/Meituan, onde apoio a integração de provedores externos de serviços de API, garantindo processos fluidos e conformidade com as diretrizes estabelecidas. Além disso, atuo em equipe internacional com colegas chineses, utilizando inglês como idioma principal para todas as comunicações, e dou suporte em testes e documentação de produtos de API, auxiliando na identificação de oportunidades de melhoria e contribuindo para iterações básicas de funcionalidades.
 
 Paralelamente, trabalho como freelancer em projetos de desenvolvimento web, combinando minha expertise técnica para entregar soluções eficientes e escaláveis.
 
@@ -41,7 +41,7 @@ Paralelamente, trabalho como freelancer em projetos de desenvolvimento web, comb
 
 ## English
 
-Hello! I am Lucas Oliveira, a Full Stack Developer with solid experience in Node.js, React, and Java. Currently working as a Network Analyst, I leverage Python and the Netmiko library to develop network device configuration automations and build interfaces for infrastructure monitoring and visibility.
+Hello! I am Lucas Oliveira, a Full Stack Developer with solid experience in Node.js, React, and Java. Currently, I work as an API Integration Analyst at Keeta/Meituan, where I support the integration of external API service providers, ensuring seamless processes and compliance with established guidelines. Additionally, I collaborate within an international team alongside Chinese colleagues, utilizing English as our primary language for all communication. I also provide support in the testing and documentation of API products, helping to identify opportunities for improvement and contributing to foundational feature iterations.
 
 Alongside my main role, I work as a freelance web developer, combining my technical expertise to deliver efficient and scalable solutions.
 
@@ -56,5 +56,5 @@ DevOps: Docker
 
 <div>
   <a href="mailto:lucasoliveira226@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-oliveira722/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-oliveira-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
